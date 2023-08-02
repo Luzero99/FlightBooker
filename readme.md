@@ -8,4 +8,4 @@ This documentation outlines a program for tracking current and past flights. The
 
 - Frontend: React
 - Backend: Spring Framework (Java)
-- Database: MySQL (other databases supported by Spring Data JPA)
+- Database: PostgreSQL
